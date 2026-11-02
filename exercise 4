@@ -1,0 +1,38 @@
+#question1
+
+fruits = ('apple', 'pear' , 'bannana' , 'grape') 
+
+for fruit in fruits :
+  print (fruit)
+
+#question2
+
+count = 5
+
+while count > 0:
+  print(count)
+  count -=1
+
+#question3
+
+numbers = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)
+
+for number in numbers :
+  print (number )
+
+#question4
+import random 
+colors = ('pink','black','green','yellow', 'orange', 'purple')
+
+for color in range (3):
+  random_color = random.choice(colors)
+  print (random_color)
+
+
+
+
+
+
+
+
+
